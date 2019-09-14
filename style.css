@@ -1,0 +1,17 @@
+#navbar {
+  background-color: grey;
+  height:50px;
+  width:98%;
+  text-align:right;
+  position:fixed;
+}
+
+#welcome-section, #links {
+  background-color:grey;
+  height:400px;
+}
+
+#projects {
+  text-align:center;
+  height:400px;
+}
